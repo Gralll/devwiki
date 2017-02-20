@@ -1,0 +1,19 @@
+# ignoring IntelliJ Idea IDE files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# ignoring Eclipse IDE files
+bin
+.classpath
+.project
+.settings
+
+# ignoring Maven build tool files
+target
+# ignore build folder
+build
+
+# ignoring git properties file
+git.properties
